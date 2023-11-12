@@ -18,6 +18,7 @@ public class ProjectOne {
                     System.out.println(exception.getMessage());
                 }
             }
+            
             public int populateTable() {
 
                 int count = 0;
